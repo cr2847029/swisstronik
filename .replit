@@ -1,0 +1,4 @@
+modules = ["bash", "nodejs-20", "python-3.8"]
+
+[nix]
+channel = "stable-24_05"
